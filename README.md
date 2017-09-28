@@ -11,10 +11,12 @@ OntoUML model - A commitment-based account of the notion of service
 - Luís Ferreira Pires
 - Marten J. van Sinderen
 - Nicola Guarino
+- Claudenir Morais Fonseca
 
 ## References 
 
 - [Towards a Commitment-Based Reference Ontology for Services](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6658277&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6658277)
+- [A commitment-based reference ontology for services](http://www.sciencedirect.com/science/article/pii/S0306437915000228)
 - [www.menthor.net/ufo-s.html](http://www.menthor.net/ufo-s.html)
 
 ## Diagrams
